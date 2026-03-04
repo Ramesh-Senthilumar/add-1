@@ -1,0 +1,1 @@
+new main 4 accessing the file without main 
